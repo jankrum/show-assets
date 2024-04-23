@@ -1,6 +1,6 @@
-# show-source
+# live-synth-show-assets
 
-Contains the source files for the show
+Contains assets for the live synth show
 
 The scripts are in scripts
 &nbsp;&nbsp;&nbsp;&nbsp;the charts, in charts
